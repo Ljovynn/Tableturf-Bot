@@ -1,5 +1,5 @@
 {
-  "name": "tableturfbotstandalone",
+  "name": "tableturf-bot",
   "version": "1.0.0",
   "description": "",
   "main": "discordBot/discordBotManager.js",
